@@ -38,7 +38,7 @@ img {
 	padding: 0 5px;
 }
 #header div ul li.current a {
-	background: url(../images/bg-button.gif) no-repeat 0 0;
+	background: center / url(../images/bg-button.gif)  no-repeat 0 0;
 }
 #header div ul li a {
 	color: #495531;
@@ -47,7 +47,7 @@ img {
 	line-height: 30px;
 	text-align: center;
 	text-decoration: none;
-	width: 90px;
+	width: 140px;
 }
 #header div ul li a:hover {
 	color: #82ae3f;
